@@ -11,7 +11,7 @@ I work on projects involving:
 - **Web development and backend programming**  
 
 ## Skills & Tools  
-- **Data Science**: Python, R, SQL, Tableau  
+- **Data Science**: Python, R, SQL, Tableau, Power BI  
 - **Web Development**: React, JavaScript, HTML, CSS  
 - **Backend Development**: Java (Spring Boot), C++
 - **Cloud**: AWS, AZURE
