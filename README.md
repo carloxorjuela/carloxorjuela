@@ -1,8 +1,16 @@
 # Hi there! 👋  
 
-**Aspiring Data Engineer | Data Scientist | AI Enthusiast**  
-Nowdays I work as Fullstack dev with Java and Springboot for the backend and React(css,hmtl,js) for the frontend, also that I managed a diferent tools like argo ci/cd, bitbucket for the control version with github,and a little bit of Jira for the stories and other stuff...
-I’m an Aspiring Data Engineer, also that I had experience as Data Analyst for Roche (Pharmaceutical company) with experience in **Python**, **SQL**, and **Tableau**. I focus on extracting insights from data, building machine learning models, and delivering impactful visualizations. Passionate about **AI**, I dedicate time daily to expanding my knowledge in machine learning and artificial intelligence. Additionally, I’m exploring **web development** and **Java**, with an interest in backend technologies.  
+Data Engineer | Data Consultant | Cloud & Automation Enthusiast
+
+I’m a data-oriented professional focused on data engineering and automation, passionate about building scalable pipelines, integrating diverse data sources, and developing cloud-based solutions that enable reliable data flow and analytics.
+
+Currently, I work as a Data Consultant at Lomarosa, where I design ETL workflows using Azure Data Factory, model relational databases in PostgreSQL, and build automated dashboards in Power BI for business operations and sales insights.
+
+Previously, I worked as a Data Analyst at Roche (Pharmaceutical), where I automated data collection and transformation processes in Python, SQL, and AWS, supporting decision-making through data-driven dashboards in Tableau.
+
+My technical stack includes Python, SQL, PySpark, Power BI, Tableau, Azure (ADF, Databricks, Data Lake), AWS (S3, Lambda, Athena), and Git/GitHub.
+
+I’m passionate about cloud data solutions, process automation, and data-driven decision-making, constantly learning new tools and frameworks to grow as a Data Engineer.
 
 ## What I Do  
 I work on projects involving:  
