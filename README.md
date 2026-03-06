@@ -1,35 +1,30 @@
 Hi there! 👋
 
-Data Engineer at Anagram (GCP) | Data Engineer | Data Consultant | Cloud & Automation Enthusiast
+Data Engineer at Anagram (GCP) | Data Engineering, Cloud & Automation
 
 I’m a data-oriented professional focused on data engineering and automation, passionate about building scalable pipelines, integrating diverse data sources, and developing cloud-based solutions that enable reliable data flow and analytics.
 
-Currently, I work as a Data Engineer at Anagram, where I design and maintain end-to-end data pipelines on Google Cloud Platform (GCP), working with cloud-native data architectures, scalable data processing, and analytics-ready datasets.
+Currently, I work as a Data Engineer at Anagram, where I build, maintain, and optimize end-to-end data pipelines on Google Cloud Platform (GCP). My work includes designing and managing data solutions with BigQuery, SQL, Cloud Functions, Cloud Scheduler, Python, and analytics-ready datasets for business workflows.
 
-Previously, I worked as a Data Consultant at Lomarosa, where I designed ETL workflows using Azure Data Factory, modeled relational databases in PostgreSQL, and built automated dashboards in Power BI for business operations and sales insights.
+Previously, I worked as a Data Consultant at Lomarosa, where I designed ETL workflows using Azure Data Factory, modeled relational databases in PostgreSQL, developed process automation solutions in Python, and built automated dashboards in Power BI for business operations and sales insights.
 
-Before that, I worked as a Data Analyst at Roche (Pharmaceutical), where I automated data collection and transformation processes using Python, SQL, and AWS, supporting decision-making through data-driven dashboards in Tableau.
+I also worked as a Full Stack Developer Contractor for Chenmed USA, where I developed frontend features with React and TypeScript, built backend functionalities in Java and Spring Boot, integrated REST APIs, and worked with CI/CD practices using Jenkins and ArgoCD in an Agile environment.
 
-My technical stack includes Python, SQL, PySpark, Power BI, Tableau, GCP (BigQuery, Cloud Storage, Dataflow), Azure (ADF, Databricks, Data Lake), AWS (S3, Lambda, Athena), and Git/GitHub.
+Before that, I worked as a Data Analyst at Roche, where I designed Tableau dashboards connected to PostgreSQL, built Python-based web scraping and data extraction workflows, and automated recurring reporting tasks using Google Apps Script to improve operational efficiency.
 
-I’m passionate about cloud data solutions, process automation, and data-driven decision-making, constantly learning new tools and frameworks to grow as a Data Engineer.
+My technical stack includes Python, SQL, BigQuery, PostgreSQL, Power BI, Tableau, GCP (BigQuery, Cloud Functions, Cloud Scheduler, Vertex AI), Azure (Data Factory, Data Lake), Git/GitHub, and CI/CD tools.
 
-What I Do
+I’m passionate about cloud data solutions, process automation, and building reliable systems that turn raw data into business value. I’m continuously learning and growing as a Data Engineer with a strong interest in scalable architectures, automation, and applied AI.
 
-I work on projects involving:
+## What I Do
+- Data engineering and cloud-native pipelines
+- Data automation and workflow optimization
+- Data transformation, analytics, and visualization
+- Applied AI and business process improvement
 
-Data engineering & cloud-native pipelines
-
-Data cleaning, analysis, and visualization
-
-Machine learning models for predictions and automation
-
-Skills & Tools
-
-Data Engineering / Data: Python, SQL, PySpark, BigQuery, Power BI, Tableau
-
-Cloud: GCP, AWS, Azure
-
-Web Development: React, JavaScript, HTML, CSS
-
-Backend Development: Java (Spring Boot), C++
+## Skills & Tools
+- Data: Python, SQL, BigQuery, PostgreSQL, PySpark
+- Cloud: GCP, Azure
+- BI & Analytics: Power BI, Tableau
+- Automation & Dev Tools: Git, GitHub, CI/CD
+- Development: React, TypeScript, Java, Spring Boot
