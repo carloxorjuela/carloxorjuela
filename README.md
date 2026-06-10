@@ -24,7 +24,15 @@ I’m passionate about cloud data solutions, process automation, and building re
 
 ## Skills & Tools
 - Data: Python, SQL, BigQuery, PostgreSQL, PySpark
-- Cloud: GCP, Azure
+- Cloud: GCP, Azure, AWS
 - BI & Analytics: Power BI, Tableau
 - Automation & Dev Tools: Git, GitHub, CI/CD
 - Development: React, TypeScript, Java, Spring Boot
+- Databricks & Big Data:  Databricks · Delta Lake · Unity Catalog · Delta Live Tables (DLT) · Auto Loader · Apache Spark / Spark SQL · Structured Streaming · Lakehouse & Medallion architecture
+- DevOps & Tools:  Git · GitHub · Docker · Kubernetes · CI/CD · Jenkins · ArgoCD · MLOps · Jira
+
+## Honors and Awards
+-	CEIC Data LATAM – Honorable Mention: First place at the CEIC LATAM Alternative Data Hackathon.
+-	Excellence Scholarship – ICFES Recognition: Perfect scores in Mathematics and Social Sciences.
+-	AI Hackathon 2026 – Build the Future (Universidad del Rosario): First place.
+
